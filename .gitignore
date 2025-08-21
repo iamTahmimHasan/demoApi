@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnpm-debug.log
+
+# json-server generated files (if any)
+*.log
+logs
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# IDE and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Build outputs (if you had any)
+dist/
+build/
+out/
+.next/
+nuxt/
+
+# Cache
+.cache/
+.vercel
+
+# OS generated files
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

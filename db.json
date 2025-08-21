@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Premium Fiber Shirt",
+            "price": 29.99,
+            "description": "High quality fibered shirt with premium finish.",
+            "image": "/images/product1.jpg",
+            "category": "clothing",
+            "stock": 50,
+            "rating": 4.5
+        },
+        {
+            "id": 2,
+            "name": "Heavy Fiber Pants",
+            "price": 39.99,
+            "description": "Durable pants made with heavy fiber material.",
+            "image": "/images/product2.jpg",
+            "category": "clothing",
+            "stock": 30,
+            "rating": 4.2
+        },
+        {
+            "id": 3,
+            "name": "Standard Fiber Hat",
+            "price": 19.99,
+            "description": "Comfortable hat with standard fiber content.",
+            "image": "/images/product3.jpg",
+            "category": "accessories",
+            "stock": 100,
+            "rating": 4.0
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "email": "user@example.com",
+            "password": "password123",
+            "name": "John Doe"
+        }
+    ],
+    "cart": [],
+    "orders": []
+}
