@@ -1,15 +1,29 @@
-Create a DEMO JSON Server for Local Endpoint
-First install
+# DEMO JSON Server for Local Endpoint
 
-Node for npm
-npm uninstall json-server
-npm install json-server@0.17.4
-npx json-server --watch db.json --routes routes.json --port 3001
+## Installation
 
-Run json-server --help for a list of options
+1. **Install Node.js** (if not already installed).
 
-#For routing use routes.json file
+2. **Install JSON Server:**
 
-Run this command:
+   ```bash
+   npm install
 
-json-server --watch db.json --routes routes.json --port 3001
+   ```
+
+3. **Run JSON Server:**
+   ```bash
+   npx json-server --watch db.json --routes routes.json --port 3001
+   ```
+4. **For Help:**
+
+   ```bash
+   json-server --help
+
+   ```
+
+5. **Usefull Comand:**
+   ```bash
+   npm uninstall json-server
+   npm install json-server@0.17.4
+   ```
