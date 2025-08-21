@@ -2,10 +2,5 @@
   "/api/products": "/products",
   "/api/users": "/users",
   "/api/cart": "/cart",
-  "/api/orders": "/orders",
-
-  "/products": "/products",
-  "/users": "/users",
-  "/cart": "/cart",
-  "/orders": "/orders"
+  "/api/orders": "/orders"
 }
